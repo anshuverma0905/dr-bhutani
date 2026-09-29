@@ -1,0 +1,6 @@
+{
+  "name": "DR BHUTANI DENTAL CLINIC",
+  "description": "DR BHUTANI DENTAL CLINIC in Rajouri Garden, New Delhi. Explore dental care, braces, dental implants, root canal treatment, teeth whitening and cosmetic dentistry.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
